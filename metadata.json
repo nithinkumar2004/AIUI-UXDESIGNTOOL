@@ -1,0 +1,5 @@
+
+{
+  "name": "AI UI/UX Design Generator",
+  "description": "A web tool where users can input a design idea as a prompt. The system uses the Gemini API to generate React/Tailwind code and displays a live preview alongside the generated code."
+}
